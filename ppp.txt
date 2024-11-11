@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Bozdog Andreea Maria </title>
+</head>
+
+p{
+  text align: block;
+  color: red;
+  font: Times New Roman;
+}
+
+ 
+<body>
+<p><b>Nume:</b> Bozdog </p>
+
+<p><b>Prenume:</b> Andreea Maria</p>  
+
+<p><b>Contact:</b> Bozdog.Io.Andreea@student.utcluj.ro</p>
+<p><b>Poza:</b></p>
+<img src="https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612" alt="Mountain Landscape" width="612" height="612">
+    
+
+ 
+
+<p><b>Citat:</b> Scopul educaţiei ar trebui să fie pregătirea unor oameni care să acţioneze şi să gândească independent şi care, în acelaşi timp, să vadă în slujirea comunităţii realizarea supremă a vieţii lor. – Albert Einstein </p>
+
+<p><b>Lista discipline:</b> </p>
+
+      <p> Programarea calculatoarelor si limbaje de programare I https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/TstRo/04b.pdf  anul 1 </p>
+
+      <p>Componente și Circuite Electronice Pasive  https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/05b.pdf anul 1 </p>
+
+      <p>Fizică I https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/03.pdf anul 1</p> 
+
+<p><b>Hobby-uri:</b> alergat, condus, plimbari in natura, plimbari cu bicicleta </p>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+<h1>Table with Collapsed Borders</h1>
+
+<table>
+  <tr>
+    <th>Discipline</th>
+    <th>Link</th>
+    <th>Anul de studiu</th>
+  </tr>
+  <tr>
+    <td>Programarea calculatoarelor si limbaje de programare I</td>
+    <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/TstRo/04b.pdf</td>
+    <td>Anul I</td>
+  </tr>
+  <tr>
+    <td>Componente și Circuite Electronice Pasive  </td>
+    <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/05b.pdf</td>
+    <td>Anul I</td>
+  </tr>
+  <tr>
+    <td>Fizică I </td>
+    <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/03.pdf</td>
+    <td>Anul I</td>
+  </tr>
+</table>
+</body>
+</html>
